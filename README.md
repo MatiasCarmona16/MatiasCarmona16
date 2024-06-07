@@ -1,6 +1,10 @@
 <h1 align="center"> Hi there 👋, I'm Matias</h1>
 
-<a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/MatiasCarmona16/MatiasCarmona16/blob/main/ImagengithubMatiasCarmona.png"/></a>
+<p align="center">
+    <a target="_blank" href="https://www.stefanosst.gr">
+        <img src="https://github.com/MatiasCarmona16/MatiasCarmona16/blob/main/ImagengithubMatiasCarmona.png"/>
+    </a>
+</p>
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
