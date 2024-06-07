@@ -2,7 +2,7 @@
 
 <p align="center">
     <a target="_blank" href="https://www.stefanosst.gr">
-        <img src="https://github.com/MatiasCarmona16/MatiasCarmona16/blob/main/ImagengithubMatiasCarmona.png"/>
+        <img src="https://github.com/MatiasCarmona16/MatiasCarmona16/blob/main/ImagengithubMatiasCarmona.png" width="100%" />
     </a>
 </p>
 
