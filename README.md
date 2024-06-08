@@ -13,16 +13,17 @@
 </p>
 
 <pre>
-💻 I am using my skills as a Full Stack Developer with: Javascript/NodeJs/ExpressJs/NPM/MongoDB/HTML/CSS/Sass/Bootstrap/GitHub | In search of continuous knowledge
+💻 I am using my skills as a Full Stack Developer with: Javascript/NodeJs/ExpressJs/NPM/MongoDB/HTML/CSS/Sass/Bootstrap/GitHub
 📚 Full Stack developer course completed at CoderHouse! 
 📝 With great interest in learning more about Backend programming
 🌟 Main languages: Javascript
+🌱 In search of continuous knowledge
 🚩 Interested in continuing to learn and improve my skills in Full Stack development
 </pre>
 
-<br><br>
+<br>
 
-# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
