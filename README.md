@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F7F7F7&lines=Hi+There!+👋🏼;+I'm+Matias!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Gayathri&weight=500&size=21&pause=1&color=F7F7F7&background=280D5D22&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi+there%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Matias!" alt="Matias Carmona" />
 </h1>
 <h1 align="center"> Hi there 👋🏼, I'm Matias</h1>
 
