@@ -76,7 +76,7 @@
   </div>
 <div align="center"> 
   <a href="https://github.com/MatiasCarmona16">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img src="https://github.com/MatiasCarmona16/MatiasCarmona16/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
