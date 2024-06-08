@@ -4,7 +4,7 @@
 
 <p align="center">
     <a target="_blank" href="https://github.com/MatiasCarmona16">
-        <img src="https://github.com/MatiasCarmona16/MatiasCarmona16/blob/main/ImagengithubMatiasCarmona.png" width="100%" style="border-radius: 40px;"/>
+        <img src="https://github.com/MatiasCarmona16/MatiasCarmona16/blob/main/ImagengithubMatiasCarmona.png" width="100%"/>
     </a>
 </p>
 
@@ -71,7 +71,7 @@
 </p>
 
 <div align="center">
-  <h3><b>🐍We have to be like the snake... always acquiring knowledge</b></h3>
+  <h3><b>🐍Be like the snake, constantly acquiring knowledge🐍</b></h3>
   </div>
 <div align="center"> 
   <a href="https://github.com/MatiasCarmona16">
