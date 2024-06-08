@@ -48,7 +48,7 @@
   <a href="https://github.com/MatiasCarmona16">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatiasCarmona16&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false"/>
   </a>
-  <a href="https://github.com/Adityakanoi2001">
+  <a href="https://github.com/MatiasCarmona16">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasCarmona16&theme=cobalt&hide_border=false"/>
   </a>
 </p>
