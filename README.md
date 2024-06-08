@@ -42,7 +42,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 <br>
-
+<div align="center">
 ## ⚙️ &nbsp;GitHub Analytics
 ![](https://github-readme-stats.vercel.app/api?username=MatiasCarmona16&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MatiasCarmona16&theme=cobalt&hide_border=false)<br/>
@@ -53,6 +53,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MatiasCarmona16&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+</div>
 
 <div align="center">
   <h3><b>Let's get in touch! </b></h3>
