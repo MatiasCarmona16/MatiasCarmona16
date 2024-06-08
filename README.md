@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    <a target="_blank" href="https://github.com/MatiasCarmona16">
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/MatiasCarmona16">
         <img src="https://github.com/MatiasCarmona16/MatiasCarmona16/blob/main/ImagengithubMatiasCarmona.png" width="100%"/>
     </a>
 </p>
