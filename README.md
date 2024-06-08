@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=MatiasCarmona16&icon=5&color=6)](https://visitcount.itsvg.in)
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Gayathri&weight=500&size=35&pause=1&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=500&height=70&lines=Hi+there!%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Matias!" alt="Typing SVG" />
 </h1>
