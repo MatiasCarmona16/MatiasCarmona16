@@ -43,7 +43,7 @@
 
 <br>
 
-<div align="center">
+<div display="flex">
 	
 ## ⚙️ &nbsp;GitHub Analytics
 ![](https://github-readme-stats.vercel.app/api?username=MatiasCarmona16&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
