@@ -41,6 +41,18 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
+### ⚙️ &nbsp;GitHub Analytics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MatiasCarmona16&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MatiasCarmona16&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCarmona16&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MatiasCarmona16&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MatiasCarmona16&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+
 <div align="center">
   <h3><b>Let's get in touch! </b></h3>
   </div>
