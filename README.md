@@ -8,7 +8,7 @@
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Developer+Full+Stack;ReactJs%20|%2NodeJs%20;Always%20developing%20my%20skills&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Developer+Full+Stack;ReactJs%20|%20NodeJs%20;Always%20developing%20my%20skills&center=true&width=380&height=45">
 	</a>
 </p>
 
