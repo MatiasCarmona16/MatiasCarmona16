@@ -13,7 +13,7 @@
 </p>
 
 <pre>
-<div style="font-size: 16px;">
+<div style="font-size: 30px;">
 💻 I am using my skills as a Full Stack Developer with: Javascript/NodeJs/ExpressJs/NPM/MongoDB/HTML/CSS/Sass/Bootstrap/GitHub | In search of continuous knowledge
 📚 Full Stack developer course completed at CoderHouse! 
 📝 With great interest in learning more about Backend programming
