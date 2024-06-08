@@ -49,13 +49,15 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatiasCarmona16&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false"/>
   </a>
   <a href="https://github.com/MatiasCarmona16">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasCarmona16&theme=cobalt&hide_border=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCarmona16&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCarmona16&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasCarmona16&theme=cobalt&hide_border=false"/>
 </p>
+
+<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MatiasCarmona16&theme=radical&no-frame=true&no-bg=false&margin-w=4)
