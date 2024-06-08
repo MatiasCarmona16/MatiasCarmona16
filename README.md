@@ -59,31 +59,13 @@
 
 <br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MatiasCarmona16&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MatiasCarmona16&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
-</div>
-
-</div>
-
 <div align="center">
-  <h3><b>Let's get in touch! </b></h3>
+  <h3><b>🤝🏻Let's get in touch! </b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/matias-carmona-b3678221b/" target="_blank">
-  <img align="center" alt="Matias Carmona | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/1maticarmona/" target="_blank">
-  <img align="center" alt="Matias Carmona | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:matias2002carmona@gmail.com" >
-  <img align="center" alt="Matias Carmona | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<p>
-<p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+<a href="https://www.linkedin.com/in/matias-carmona-b3678221b/"><img src="https://img.shields.io/badge/-Matias Carmona-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:matias2002carmona@gmail.com"><img src="https://img.shields.io/badge/-Matias Carmona-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/1maticarmona/"><img src="https://img.shields.io/badge/-1maticarmona-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ---
